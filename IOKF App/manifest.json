@@ -1,0 +1,31 @@
+{
+  "name": "3v3 Calculator — It's Only Kids' Football",
+  "short_name": "3v3 Calculator",
+  "description": "Work out the best 3v3 format for your grassroots football session.",
+  "start_url": "./iokf_3v3_calculator.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3DD6E0",
+  "theme_color": "#3DD6E0",
+  "categories": ["sports", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

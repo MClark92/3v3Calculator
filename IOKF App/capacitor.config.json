@@ -1,0 +1,25 @@
+{
+  "$schema": "https://capacitorjs.com/docs/config",
+  "appId": "com.itsonlykidsfootball.calculator3v3",
+  "appName": "3v3 Calculator",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#3DD6E0",
+      "showSpinner": false,
+      "androidSplashResourceName": "splash",
+      "iosSplashResourceName": "Default"
+    },
+    "StatusBar": {
+      "style": "Dark",
+      "backgroundColor": "#3DD6E0"
+    }
+  },
+  "ios": {
+    "contentInset": "always",
+    "preferredContentMode": "mobile",
+    "backgroundColor": "#3DD6E0"
+  }
+}
